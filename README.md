@@ -1,2 +1,3 @@
-# Bookshelf
-Tool to display your physical library on the web. 
+I have a somewhat large phsyical library that I want to be able to manage digitally. There are a few exisiting options for this including LibraryThing and Calibre. But neither really suit my use case. I want to be able to host that list on my website and have more granular control over how the books are displayed. 
+
+The current plan is to build something that can be self-hosted and supports scanning in covers and ISBNs, fetching book meta-data from Amazon or the Library of Congress, and some nice display options. Some other things that might be nice include reviews, a reading history, and multiple users. 
